@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+
+    <title>Landing Page Luana Oliveira Nails</title>
+</head>
+
+<body>
+    <img class="img-pagina2" src="./assets/img-banner-luana.png">
+    
+    <ul class="ul"></ul>
+
+    <header>
+        <img class="img-header" src="./assets/logo-luana.png">
+        <nav>
+            <ul class="uls">
+                <li class="name-header"><a id="a">Luana Oliveira Master_Nail</a></li>
+                <li class="arrow-beginning"><a href="./index.html"><img src="./assets/seta.png"></a></li>
+                <li class="whatsapp"><a
+                        href=" https://wa.me/?text=Olá,%20gostaria%20de%20saber%20sobre%20os%20seus%20cursos.."
+                        target="_blank"><img src="./assets/img-whats.png"></a></li>
+                <li class="insta"><a href="https://www.instagram.com/luanaoliveiramaster_nail/" target="_blank"><img
+                            src="./assets/img-insta.png" alt=""></a></li>
+                <li class="location"><a
+                        href="https://www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d920.0071455089491!2d-43.378335!3d-22.727179!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjLCsDQzJzM3LjgiUyA0M8KwMjInNDEuNiJX!5e0!3m2!1spt-BR!2sbr!4v1708469961307!5m2!1spt-BR!2sbr"
+                        target="iframe"><img src="./assets/img-location.png"></a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container-buttons">
+        <button class="showing-all">Cursos</button>
+        <button class="showing-services">Serviços</button>
+        <button onclick="cliqueiNoBotao()">Fale Conosco</button>
+    </div>
+
+    <form class="fale-conosco" action="https://formsubmit.co/thaisaraquel.dev@gmail.com" method="POST">
+        <input placeholder="Seu nome" type="text" name="name">
+        <input placeholder="Seu telefone" type="tel" name="telefone">
+        <input placeholder="Qual curso ou serviço se interessou.." type="text" name="curso">
+        <textarea placeholder="Digite sua dúvida aqui.." name="mensagem"></textarea>
+        <button id="to-send" onclick="sumirFormulario()">Enviar formulário</button>
+    </form>
+
+</body>
+
+<script src="./curses.js"></script>
+<script src="./script.js"></script>
+
+
+</html>
