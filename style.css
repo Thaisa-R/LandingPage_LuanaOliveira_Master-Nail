@@ -32,7 +32,7 @@ header {
 
 nav ul {
     display: inline-flex;
-    top: 12px;
+    top: 10px;
     position: fixed;
     right: 20px;
     list-style: none;
@@ -53,6 +53,7 @@ a {
 }
 
 .name-header {
+    font-size: 17px;
     border: none;
     font-weight: bold;
     letter-spacing: 1.6px;
@@ -72,25 +73,25 @@ a {
 }
 
 .arrow-beginning {
-    width: 3%;
+    width: 3.5%;
     border: none;
     background-color: initial;
 }
 
 .whatsapp {
-    width: 3%;
+    width: 3.3%;
     border: none;
     background-color: initial;
 }
 
 .insta {
-    width: 3%;
+    width: 3.5%;
     border: none;
     background-color: initial;
 }
 
 .location {
-    max-width: 3%;
+    max-width: 3.3%;
     border: none;
     background-color: initial;
     margin-right: 20px;
@@ -321,38 +322,38 @@ form {
 
     .img-header {
         width: 10%;
-        left: 15px;
+        left: 12px;
         top: 13px;
     }
 
     .uls {
         left: 80px;
         gap: 3px;
-        margin-top: 8px;
+        margin-top: 5px;
         width: 75%;
         align-items: center;
     }
 
     .arrow-beginning {
-        width: 8%;
+        width: 11%;
     }
 
     .whatsapp {
-        width: 8%;
+        width: 11%;
     }
 
     .insta {
-        width: 8%;
+        width: 11%;
     }
 
     .location {
-        max-width: 8%;
+        max-width: 11%;
         margin-right: 0;
     }
 
     .name-header {
-        font-size: 12px;
-        left: 50px;
+        font-size: 15px;
+        left: 45px;
     }
 
     .ul {
@@ -360,6 +361,7 @@ form {
         right: 5px;
         max-height: 80%;
         display: grid;
+        overflow: scroll;
     }
 
     .container-buttons {
