@@ -3,10 +3,9 @@ const buttonShowingAll = document.querySelector(".showing-all")
 const buttonShowingServices = document.querySelector(".showing-services")
 const formulario = document.querySelector(".fale-conosco")
 
-
 function cliqueiNoBotao() {
     formulario.style.left = "10%";
-    formulario.style.transform = "translateX(35%)";
+    formulario.style.transform = "translateX(25%)";
    
 }
 

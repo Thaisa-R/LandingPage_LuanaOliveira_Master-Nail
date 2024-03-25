@@ -53,7 +53,7 @@ a {
 }
 
 .name-header {
-    font-size: 17px;
+    font-size: 22px;
     border: none;
     font-weight: bold;
     letter-spacing: 1.6px;
@@ -118,11 +118,11 @@ img {
 }
 
 .img-header {
-    width: 4%;
+    width: 5%;
     position: fixed;
     align-items: center;
     left: 25px;
-    top: 10px;
+    top: 8px;
 }
 
 .img-logo {
@@ -239,6 +239,7 @@ textarea {
     border: 1px solid gray;
     padding: 10px;
     background-color: #ECCDD8;
+    resize: none;
 }
 
 #to-send {
@@ -310,6 +311,15 @@ form {
         background-color: #A14A78;
     }
 
+    #a {
+        color: #A14A78;
+        text-decoration: none;
+        opacity: 0.9;
+        font-weight: bold;
+        font-size: 16px;
+      
+    }
+
     #b {
         color: #590342;
         background-color: #eccdd8;
@@ -321,21 +331,21 @@ form {
     }
 
     .img-header {
-        width: 10%;
-        left: 12px;
-        top: 13px;
+        width: 11%;
+        left: 8px;
+        top: 14px;
     }
 
     .uls {
         left: 80px;
-        gap: 3px;
-        margin-top: 5px;
+        gap: 0.5px;
+        margin-top: 7px;
         width: 75%;
         align-items: center;
     }
 
     .arrow-beginning {
-        width: 11%;
+        width: 12%;
     }
 
     .whatsapp {
@@ -353,7 +363,7 @@ form {
 
     .name-header {
         font-size: 15px;
-        left: 45px;
+        left: 40px;
     }
 
     .ul {
