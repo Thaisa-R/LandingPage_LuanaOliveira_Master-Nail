@@ -53,6 +53,10 @@ a {
 }
 
 .name-header {
+    position: fixed;
+    display: flex;
+    top: 23.3px;
+    left: 85px;
     font-size: 20px;
     border: none;
     font-weight: bold;
@@ -60,10 +64,7 @@ a {
     align-self: center;
     opacity: 0.9;
     background-color: initial;
-    top: 23.3px;
-    left: 85px;
-    position: fixed;
-    display: flex;
+   
 }
 
 .uls {
@@ -338,15 +339,15 @@ form {
     }
 
     .img-header {
-        width: 11.5%;
+        width: 12.5%;
         left: 6.5px;
-        top: 13px;
+        top: 12px;
     }
 
     .uls {
         left: 80px;
         gap: 0.5px;
-        margin-top: 1px;
+        margin-top: 2px;
         width: 75%;
         align-items: center;
     }
@@ -371,8 +372,8 @@ form {
     .name-header {
         position: fixed;
         font-size: 14.8px;
-        left: 40px;
-        top: 20.5px;
+        left: 50px;
+        align-items: center;
     }
 
     .ul {
