@@ -47,11 +47,11 @@ Tecnologias utilizadas:
 
 <img width="240" src="https://github.com/Thaisa-R/Landing-Page-Luana-Oliveira-Nails/assets/145076559/a9e077cf-7a47-48d8-9d5b-99aff0fe6b1a"/>
 
-<img width="250" src="https://github.com/Thaisa-R/Landing-Page-Luana-Oliveira-Nails/assets/145076559/30da9927-ef41-4ca0-b33a-14a818c1211c"/>
+<img width="245" src="https://github.com/Thaisa-R/Landing-Page-Luana-Oliveira-Nails/assets/145076559/30da9927-ef41-4ca0-b33a-14a818c1211c"/>
 
 <img width="250" src="https://github.com/Thaisa-R/Landing-Page-Luana-Oliveira-Nails/assets/145076559/62b492b3-ea1c-4598-81de-e7f5e6c6a7c6"/>
 
-<img  width="230" src="https://github.com/Thaisa-R/Landing-Page-Luana-Oliveira-Nails/assets/145076559/35962854-7771-450f-9be3-781eb8633732"/>
+<img  width="228" src="https://github.com/Thaisa-R/Landing-Page-Luana-Oliveira-Nails/assets/145076559/35962854-7771-450f-9be3-781eb8633732"/>
 
 
 
